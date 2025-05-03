@@ -1,10 +1,10 @@
 - ## Colour Theory
-
-| Feature    | Hue                                | Tint                            | Tone                                   | Shade                               |
-| ---------- | ---------------------------------- | ------------------------------- | -------------------------------------- | ----------------------------------- |
-| Definition | The pure color                     | Hue + White                     | Hue + Gray                             | Hue + Black                         |
-| Effect     | The base color identity            | Lighter version of the hue      | Muted or less saturated version of hue | Darker version of the hue           |
-| Saturation | Typically high (pure color)        | Lower                           | Lower                                  | Can be lower                        |
+- 
+| Feature    | Hue | Tint | Tone | Shade |
+| ---------- | --- | ---- | ---- | ----- |
+| Definition | The pure color | Hue + White | Hue + Gray | Hue + Black |
+| Effect     | The base color identity | Lighter version of the hue | Muted or less saturated version of hue | Darker version of the hue |
+| Saturation | Typically high (pure color) | Lower | Lower | Can be lower |
 | Lightness  | Can vary depending on the pure hue | Increased                       | Can be similar to the base hue         | Decreased                           |
 | Addition   | Nothing added                      | White                           | Gray (Black + White)                   | Black                               |
 | Examples   | Red, Blue, Green, Yellow, Violet   | Pink, Sky Blue, Lavender, Peach | Dusty Rose, Olive, Teal, Mauve         | Maroon, Navy, Forest Green, Mustard |
